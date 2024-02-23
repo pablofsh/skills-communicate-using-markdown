@@ -5,5 +5,8 @@
 # Pedazo de codigo 
 ```R
 var -> "Hello, world!"
-
 ```
+
+# Añadir lista 
+- [ ] Abrir algo
+- [ ] O mira se hace automatico 
